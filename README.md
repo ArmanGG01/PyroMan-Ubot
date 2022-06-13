@@ -13,8 +13,11 @@ Gunakan userbot ini dengan bijak.
 Ketika anda sudah memasang userbot ini, berarti anda sudah siap dengan resikonya.
 ```
 
-<h3 align="center">Klik Tombol di Bawah ini untuk Deploy di Heroku</h3>
-<p align="center"><a href="https://arman.vercel.app/deploy-pyro.html"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku" target="_blank"/></a></p>
+<h3 align="center">𝙺𝙻𝙸𝙺 𝚃𝙾𝙼𝙱𝙾𝙻 𝙳𝙸 𝙱𝙰𝚆𝙰𝙷 𝙸𝙽𝙸 𝚄𝙽𝚃𝚄𝙺 𝙳𝙴𝙿𝙻𝙾𝚈 𝙳𝙸 𝚆𝙴𝙱 𝙷𝙴𝚁𝙾𝙺𝚄
+
+<h3>Deploy to Heroku </h3>
+<div>
+    <a href="https://heroku.com/deploy?template=https://github.com/ArmanGG01/PyroMan-Ubot"><img src="https://www.herokucdn.com/deploy/button.svg"></a>
 
 ## 🖇 Generating Pyrogram String Session
     
