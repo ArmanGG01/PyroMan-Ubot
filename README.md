@@ -1,6 +1,6 @@
-# PyroMan-Userbot Telegram
+# PyroMan-Ubot Telegram
 
-PyroMan-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.
+PyroMan-Ubot adalah ubot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.
 
 Saya membuat repository ini untuk bersenang-senang sekaligus membantu anda mengelola grup secara efisien dan untuk membantu mengurangi kebosanan saat menggunakan telegram.
 
@@ -24,8 +24,8 @@ Ketika anda sudah memasang userbot ini, berarti anda sudah siap dengan resikonya
 
 ## 🏷 Support
 
-- Follow Channel [@Lunatic0de](https://t.me/Lunatic0de) untuk info Update bot 
-- Gabung Group [@SharingUserbot](https://t.me/SharingUserbot) untuk diskusi, pelaporan bug, dan bantuan tentang PyroMan-Userbot.
+- Follow Channel [@DeployBot01](https://t.me/DeployBot01) untuk info Update bot 
+- Gabung Group [@obrolansuar](https://t.me/obrolansuar) untuk diskusi, pelaporan bug, dan bantuan tentang PyroMan-Ubot.
 
 ## 👨🏻‍💻 Credits
 -  [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
@@ -40,4 +40,4 @@ Ketika anda sudah memasang userbot ini, berarti anda sudah siap dengan resikonya
 -  [Toni](https://github.com/Toni880) : Prime-UserBot
 
 ## 📑 License
-Licensed under [GNU General Public License v3.0](https://github.com/mrismanaziz/PyroMan-Userbot/blob/Man-Userbot/LICENSE) All designs were created by [@mrismanaziz](https://github.com/mrismanaziz)
+Licensed under [GNU General Public License v3.0](https://github.com/ArmanGG01/PyroMan-Ubot/blob/Man-Ubot/LICENSE) All designs were created by [@ArmanGG01](https://github.com/ArmanGG01)
