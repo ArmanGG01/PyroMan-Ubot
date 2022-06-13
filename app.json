@@ -1,6 +1,6 @@
 {
-  "name": "PyroMan-Userbot",
-  "description": "[PyroMan-Userbot] adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.",
+  "name": "PyroMan-Ubot",
+  "description": "[PyroMan-Ubot] adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.",
   "env": {
     "API_ID": {
       "description": "Dapatkan API ID di web my.telegram.org Masukan yg APP ID Telegram",
@@ -11,7 +11,7 @@
       "required": true
     },
     "STRING_SESSION1": {
-      "description": "Dapatkan String Session Pyrogram di Grup » https://t.me/SharingUserbot » Lalu ketik #string",
+      "description": "Dapatkan String Session Pyrogram di Grup » https://t.me/obrolansuar » Lalu ketik #string",
       "required": true
     },
     "HEROKU_API_KEY": {
