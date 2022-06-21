@@ -1,1 +1,2 @@
 #https:gituhub.com/ArmanGG01/PyroMan-Ubot
+#DI SINI BELUM ADA APA KONTOL GAK USAH KE SINI KAU PUKIMAK
